@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">helloMantan</string>
+    <string name="greeting">Hello Mantan!</string>
+</resources>
